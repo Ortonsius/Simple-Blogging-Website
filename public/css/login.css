@@ -1,0 +1,18 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+form{
+    width: 280px;
+}
+form *{
+    width: 100%;
+    margin-bottom: 20px;
+}
+form input{
+    padding: 3px 5px;
+    font-size: 16px;
+    border: none;
+    border-bottom: 1px solid black;
+}
